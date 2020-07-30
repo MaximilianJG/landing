@@ -1,0 +1,21 @@
+.footer-container {
+  background-color: #141E32;
+  text-align: center;
+  padding: 30px;
+  color: white;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.social-media {
+  font-size: 80px;
+  color: #ECC595;
+}
+
+.footer a {
+  color: #ECBF88;
+;
+}
